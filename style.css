@@ -44,3 +44,28 @@ header, footer {
 
 /* WRITE YOUR CODE BELOW HERE */
 
+
+.inter-bodyfont {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.afacad-flux-headings {
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+
+body {
+  font-family: "Inter" , sans-serif;
+}
+
+h1 , h2 {
+  font-family: "Afacad Flux" , sans-serif;
+}
